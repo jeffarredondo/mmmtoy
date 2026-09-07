@@ -1,0 +1,5 @@
+mmm-env/*
+.DS_Store
+toy_mmm_data.csv
+*.nc
+*.pickle
